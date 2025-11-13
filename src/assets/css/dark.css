@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+
+.app-container {
+    background-color: #2d3343;
+    color: white;
+}
+
+.div {
+    color: white;
+}
+
+input {
+    background: white;
+    background-color: #485167bb;
+    color: white;
+}
+
+.test-log {
+    background: white;
+    background-color: #485167bb;
+    color: white;
+}
+
+select {
+    background: #1a2644bb;
+    color: white;
+    border-color: white;
+}

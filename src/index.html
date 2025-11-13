@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<html>
+<title>Best Test Runner</title>
+<header>
+	<link rel="stylesheet" type="text/css" href="assets/css/main.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/dark.css">
+</header>
+
+<body>
+	<div class="app-container">
+		<div class="title-container">
+			<div class="title-text">Best Test Runner</div>
+		</div>
+		<div class="all-params-container">
+			<div class="param-container">
+				<label for="test-suite" class="param-label">Test Suite</label>
+				<select id="test-suite" class="test-param-option"></select>
+			</div>
+			<div class="param-container">
+				<label for="test-case" class="param-label">Test Case</label>
+				<select id="test-case" class="test-param-option"></select>
+			</div>
+			<br>
+		</div>
+		<div id="user-params-container" class="user-params-container">
+		</div>
+		<div class="test-log-container">
+			<textarea id="test-log" class="test-log"></textarea>
+		</div>
+		<div class="execute-button-container">
+			<button class="execute-button" id="execute">Execute</button>
+		</div>
+		<div class="all-notes-container">
+			<div class="notes-container">
+				<span>See dev tools console for errors</span>
+			</div>
+			<div id="user-notes-container">
+			</div>
+		</div>
+	</div>
+
+	<script type="module" src="assets/js/best.init.js"></script>
+</body>
+
+</html>
