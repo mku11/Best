@@ -70,7 +70,6 @@ type: list, directory
 			value: The value of the option that can be selected by the user  
 	directory: A select button if you use local files to do your testing  
 		value: The text of the button.  
-To retrieve the selected values see the next step.  
 ```
 
 ```
