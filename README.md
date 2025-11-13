@@ -60,6 +60,7 @@ addBestUserNotes([
 
 4. Set your test parameters for the UI (optional)  
 Test parameter description:  
+```
 key: Unique id for the parameter, it could be any string  
 name: The text for the UI parameter  
 type: list, directory  
@@ -70,6 +71,7 @@ type: list, directory
 	directory: A select button if you use local files to do your testing  
 		value: The text of the button.  
 To retrieve the selected values see the next step.  
+```
 
 ```
 // best.setup.js
