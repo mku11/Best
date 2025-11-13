@@ -1,6 +1,7 @@
 # Best
-Best is a Jest semi-compatible test runner for the browser.  
-You can run your Jest test cases directly on the browser with UI parameters.  
+Best is a Jest semi-compatible test runner for the Browser.  
+You can run your Jest test cases directly on the web browser with optional UI parameters.  
+Published under MIT License  
 
 ## Features
 * Test Suites and Cases selection
