@@ -94,7 +94,7 @@ addBestParameters([
 ]);
 ```
 
-// 5. You can write your test cases as you would normally do for Jest
+5. You can write your test cases as you would normally do for Jest
 ```
 // test_cases1.test.js
 describe('test_cases1', () => {
