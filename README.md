@@ -3,6 +3,8 @@ Best is a Jest semi-compatible test runner for the Browser.
 You can run your Jest test cases directly on the web browser with optional UI parameters.  
 Published under MIT License  
 
+![alt text](https://github.com/mku11/LiveUML/blob/main/screenshots/Screenshot.png)  
+
 ## Features
 * Test Suites and Cases selection
 * User defined test parameters (drop down list, local directory selection)
