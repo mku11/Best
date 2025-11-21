@@ -7,7 +7,7 @@ Published under MIT License
 
 [![License: MIT](https://img.shields.io/github/license/mku11/Best.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-0.9.0-blue)](https://github.com/mku11/Best/releases)
-[![GitHub Releases](https://img.shields.io/github/downloads/mku11/Best/latest/total?logo=github)](https://github.com/mku11/WebFS/releases)
+[![GitHub Releases](https://img.shields.io/github/downloads/mku11/Best/latest/total?logo=github)](https://github.com/mku11/Best/releases)
 
 ## Features
 * Test Suites and Cases selection
