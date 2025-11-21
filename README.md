@@ -1,9 +1,13 @@
 # Best
-Best is a Jest semi-compatible test runner for the Browser.  
+Best might not be the best but a Jest semi-compatible test runner for the Browser.  
 You can run your Jest test cases directly on the web browser with optional UI parameters.  
 Published under MIT License  
 
 ![alt text](https://github.com/mku11/Best/blob/main/screenshots/Screenshot.png)  
+
+[![License: MIT](https://img.shields.io/github/license/mku11/Best.svg)](LICENSE)
+[![Version](https://img.shields.io/badge/version-0.9.0-blue)](https://github.com/mku11/Best/releases)
+[![GitHub Releases](https://img.shields.io/github/downloads/mku11/Best/latest/total?logo=github)](https://github.com/mku11/WebFS/releases)
 
 ## Features
 * Test Suites and Cases selection
